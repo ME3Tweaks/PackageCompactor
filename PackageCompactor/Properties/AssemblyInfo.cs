@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PackageCompactor")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Mass Effect Package Compactor")]
+[assembly: AssemblyDescription("Command line tool that compacts a package file (in uncompressed form)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("ME3Tweaks")]
 [assembly: AssemblyProduct("PackageCompactor")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright © ME3Tweaks 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
